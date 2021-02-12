@@ -67,7 +67,7 @@ print("My webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![output](./static/img/7.png)
+![output](./static/img/8.png)
 
 ## RESULT:
 Thus a website is designed for the simple webserver and is hosted in the 
