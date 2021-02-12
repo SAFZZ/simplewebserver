@@ -69,6 +69,9 @@ httpd.serve_forever()
 ## OUTPUT:
 ![output](./static/img/8.png)
 
+## VALIDATION REPORT:
+![output](./static/img/11.png)
+
 ## RESULT:
 Thus a website is designed for the simple webserver and is hosted in the 
 URL: http://safa.student.saveetha.in/multi.py. HTML code is validated.

@@ -1,7 +1,7 @@
 from http.server import HTTPServer,BaseHTTPRequestHandler
 content = """
 <!DOCTYPE html>
-<html>
+<html lang=en>
 <head>
 <title>SIMPLE WEBSERVER</title>
 </head>
